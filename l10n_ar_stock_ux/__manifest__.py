@@ -40,4 +40,5 @@
     "installable": True,
     "auto_install": ["l10n_ar_stock"],
     "application": False,
+    "pre_init_hook": "pre_init_hook",
 }
